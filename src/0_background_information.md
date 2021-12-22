@@ -564,7 +564,5 @@ get into the right mindset for exploring Rust's Futures.
 > running a task. Rust's Futures on the other hand are _lazily_ evaluated. They
 > need to be polled once before they do any work.
 
-<br />
-<div style="text-align: center;  padding-top: 2em;">
-<a href="/books-futures-explained/1_futures_in_rust.html" style="display: inline-block; background: red; color: white; padding:2em 2em 2em 2em; font-size: 1.2em;"><strong>PANIC BUTTON (next chapter)</strong></a>
-</div>
+[**PANIC BUTTON (next chapter)**](https://github.com/cfsamson/books-futures-explained/blob/master/src/1_futures_in_rust.md)
+
